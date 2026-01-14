@@ -1,2 +1,4 @@
 # Taller_microSTEAMakers_MicroBlocks
-Programación de la placa ESP32 micro:STEAMakers con el lenguaje visual MicroBlocks
+Programación de la placa ESP32 micro:STEAMakers con el lenguaje visual MicroBlocks.
+
+Documentación y contenidos del taller aquí.
